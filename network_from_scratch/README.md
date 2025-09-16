@@ -47,7 +47,7 @@ Epoch 980 loss: 0.001
 Epoch 990 loss: 0.001
 Emily: 0.966 # -> Female
 Frank: 0.056 # -> Male
-
+```
 ## Visualization
 During training, the loss curve is plotted and saved to `images/loss.png`.
 Example:
@@ -96,4 +96,5 @@ This work is a learning project inspired by the excellent tutorial by Victor Zho
 - [ ] Switchable activations (ReLU/Tanh)  
 - [ ] Mini-batch training & different optimizers (SGD with momentum/Adam)  
 - [ ] Unit tests and CLI arguments  
+
 ```
